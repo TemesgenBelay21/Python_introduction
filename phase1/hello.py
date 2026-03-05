@@ -1,5 +1,9 @@
-x = 4
-y = 6
 
-print(x + y)
 print("hello world")
+
+
+print("what is ur name ?")
+
+NAME = input()
+
+print("hello " + NAME + " welcome to python")
